@@ -6,7 +6,7 @@ Yashika Gupta
 
 # Road Data Time Series Prediction
 
-Hi! I've used **Decision Tree Classifier** from **sklearn** library in order to predict the parameters 9 to 13 for all sections for year 10.
+I've used **Decision Tree Classifier** from **sklearn** library in order to predict the parameters 9 to 13 for all sections for year 10.
 
 
 ## About the dataset used
@@ -19,23 +19,23 @@ Using the above mentioned model, I've predicted the values corresponding to para
 
 RMSE for Parameter 9:-
 
-![Parameter 9](/images/Para-9.png "")
+![Para-9](https://user-images.githubusercontent.com/69670915/193465414-8c4e6f0e-e616-466e-9aeb-53b787d0dd6e.png)
 
 RMSE for Parameter 10:-
 
-![Parameter 10](/images/Para-10.png "")
+![Para-10](https://user-images.githubusercontent.com/69670915/193465440-fcc32e0c-73fa-495e-a339-6183d6452508.png)
 
 RMSE for Parameter 11:-
 
-![Parameter 11](/images/Para-11.png "")
+![Para-11](https://user-images.githubusercontent.com/69670915/193465456-ebaefd4b-c05f-495f-9fbd-473ab71ccbc3.png)
 
 RMSE for Parameter 12:-
 
-![Parameter 12](/images/Para-12.png "")
+![Para-12](https://user-images.githubusercontent.com/69670915/193465464-89bc383d-741e-4306-b31d-efe142b848d0.png)
 
 RMSE for Parameter 13:-
 
-![Parameter 13](/images/Para-13.png "")
+![Para-13](https://user-images.githubusercontent.com/69670915/193465474-50374e5c-928f-48a6-8108-4816ce4066d5.png)
 
 
 ---
